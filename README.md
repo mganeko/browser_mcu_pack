@@ -3,7 +3,7 @@
 * Browser MCU Pack is Docker container for [Bowser MCU Server](https://github.com/mganeko/browser_mcu_server) and headless browser MCU
 * Browser MCU Pack is using [Browser MCU Core](https://github.com/mganeko/browser_mcu_core) library 
 * Browser MCU Pack is using Chrome s headless browser, running in docker container
-* Browser MCU Pack is using Dockefile of [justinribeiro/chrome-headless](https://hub.docker.com/r/justinribeiro/chrome-headless/)
+* Browser MCU Pack is using Dockerfile of [justinribeiro/chrome-headless](https://hub.docker.com/r/justinribeiro/chrome-headless/)
 * Browser MCU Pack is simple example of multi participants meeting with single room, with headle browser MCU
 * Browser MCU Pack is a part of Browser MCU Series
 * --
