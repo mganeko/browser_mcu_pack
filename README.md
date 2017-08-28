@@ -5,14 +5,14 @@
 * Browser MCU Pack is using Chrome s headless browser, running in docker container
 * Browser MCU Pack is using Dockerfile of [justinribeiro/chrome-headless](https://hub.docker.com/r/justinribeiro/chrome-headless/)
 * Browser MCU Pack is simple example of multi participants meeting with single room, with headle browser MCU
-* Browser MCU Pack is a part of Browser MCU Series
+* Browser MCU Pack is a part of [Browser MCU Series](https://github.com/mganeko/browser_mcu)
 * --
 * Browser MCU Pack は[Bowser MCU Server](https://github.com/mganeko/browser_mcu_server)とヘッドレスブラウザを使ったMCUをセットにしたDockerコンテナです
 * Browser MCU Pack は[Browser MCU Core](https://github.com/mganeko/browser_mcu_core) ライブラリを利用しています
 * Browser MCU Pack は Chromeのヘッドレスブラウザーモードを利用しています
 * Browser MCU Pack は [justinribeiro/chrome-headless](https://hub.docker.com/r/justinribeiro/chrome-headless/) のDockerfileの記述を利用しています
 * Browser MCU Pack は複数人の会議室を1つだけ持つサンプルを、手軽に実行できるようにしたものです
-* Browser MCU Pack は Browse MCU シリーズの一部です
+* Browser MCU Pack は [Browse MCU シリーズ](https://github.com/mganeko/browser_mcu)の一部です
 
 ## Confirmed Environment / 動作確認環境
 
