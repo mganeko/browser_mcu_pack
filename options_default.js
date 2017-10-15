@@ -27,7 +27,8 @@ module.exports =
     headlessFullpath: '/usr/bin/google-chrome-stable', // for ubuntu + chrome
 
     //headlessArgs: ['--headless',  '--disable-gpu', '--remote-debugging-address=0.0.0.0', '--remote-debugging-port=9222'], // With Debug port remote host access
-    headlessArgs: ['--headless',  '--disable-gpu', '--remote-debugging-address=0.0.0.0', '--remote-debugging-port=9222'], // With Debug port localhost access
+    //headlessArgs: ['--headless',  '--disable-gpu', '--remote-debugging-address=0.0.0.0', '--remote-debugging-port=9222'], // With Debug port localhost access
+    headlessArgs: ['--headless', '--remote-debugging-address=0.0.0.0', '--remote-debugging-port=9222'], // With Debug port localhost access, for Chrome 61
     //headlessArgs: ['--disable-gpu',  '--remote-debugging-port=9222'], // NOT headless
 
     headlessUrlSingle: 'single_mcu.html',
